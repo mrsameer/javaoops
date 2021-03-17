@@ -1,0 +1,17 @@
+
+J	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8‹ôøŞƒ/
+X	java:S1251"<This block of commented-out lines of code should be removed.(÷µ†8±“úŞƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñõ©°şÿÿÿÿ8„ãŞƒ/
+h
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8¾”ùŞƒ/
+h
+java:S2142	"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8„ãŞƒ/
+W	java:S125"<This block of commented-out lines of code should be removed.(‰Š¬%8ÈÀûŞƒ/
+X	java:S125 "<This block of commented-out lines of code should be removed.(²Üû 8À…üŞƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñõ©°şÿÿÿÿ8‹ôøŞƒ/
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8ş±ùŞƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8‹ôøŞƒ/
+J	java:S108	")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8„ãŞƒ/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(«‹Îõ8»ÒãŞƒ/

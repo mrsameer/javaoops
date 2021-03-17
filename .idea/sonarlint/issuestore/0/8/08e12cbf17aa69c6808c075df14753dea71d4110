@@ -1,0 +1,24 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "t".(Ë£Ïàùÿÿÿÿ8»ì¤ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“ÜØÚ8îö¨ƒ/
+R
+java:S1854"5Remove this useless assignment to local variable "t".(ºŒ®è8ƒŸªƒ/
+C
+java:S1481"&Remove this unused "t" local variable.(ºŒ®è8ƒŸªƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²¾³Ÿÿÿÿÿÿ8ƒ«£ƒ/
+H
+java:S1481"&Remove this unused "t" local variable.(Ë£Ïàùÿÿÿÿ8»ì¤ƒ/
+i	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶¨õÈ8‹˜¯ƒ/
+W
+java:S1854"5Remove this useless assignment to local variable "t".(è™Íıøÿÿÿÿ8Èó­ƒ/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬¡”ÿÿÿÿÿ8Íğ¬ƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×¾ö¾üÿÿÿÿ8Íğ¬ƒ/
+W
+java:S1854)"5Remove this useless assignment to local variable "t".(ïØªŞşÿÿÿÿ8Ë¨±ƒ/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ùöğ8©°ƒ/
+H
+java:S1481"&Remove this unused "t" local variable.(è™Íıøÿÿÿÿ8Èó­ƒ/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡íıšúÿÿÿÿ8–ƒ¨ƒ/
+H
+java:S1481)"&Remove this unused "t" local variable.(ïØªŞşÿÿÿÿ8Ë¨±ƒ/

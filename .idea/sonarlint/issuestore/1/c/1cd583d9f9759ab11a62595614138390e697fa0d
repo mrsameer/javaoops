@@ -1,0 +1,14 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "t3".(Ë¯‚Ú8¤†Î€ƒ/
+R
+java:S1854"6Remove this useless assignment to local variable "t1".(©«Şg8¤†Î€ƒ/
+D
+java:S1481"'Remove this unused "t3" local variable.(Ë¯‚Ú8¤†Î€ƒ/
+X
+java:S1854"6Remove this useless assignment to local variable "t2".(‘ü·›ûÿÿÿÿ8¤†Î€ƒ/
+C
+java:S1481"'Remove this unused "t1" local variable.(©«Şg8¤†Î€ƒ/
+I
+java:S1481"'Remove this unused "t2" local variable.(‘ü·›ûÿÿÿÿ8¤†Î€ƒ/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8õæË€ƒ/

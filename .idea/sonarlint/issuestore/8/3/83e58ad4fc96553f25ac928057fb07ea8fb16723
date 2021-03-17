@@ -1,0 +1,7 @@
+
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Ø»ÏÊ8ÚÚ•®ƒ/
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(žõÃ‰ùÿÿÿÿ8ö… ®ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¢ü¢8¥ô–®ƒ/
+D
+java:S1172"(Remove this unused method parameter "i".(¦²½:8¥ô–®ƒ/

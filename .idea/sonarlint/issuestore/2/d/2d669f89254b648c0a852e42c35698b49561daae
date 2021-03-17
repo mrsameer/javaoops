@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»˜‡ÿùÿÿÿÿ8™•öŒƒ/
+Q
+java:S1854
+"5Remove this useless assignment to local variable "t".(ëÃ8™•öŒƒ/
+B
+java:S1481
+"&Remove this unused "t" local variable.(ëÃ8™•öŒƒ/

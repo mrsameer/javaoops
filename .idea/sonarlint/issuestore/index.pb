@@ -95,7 +95,11 @@ R
 "src/multithreading/MyThread20.java,0/c/0c47c63299312f0db5591cf67d6e2dd7f74c2992
 <
 javaoops.iml,0/6/06d6eba93156a31aa4aa750716fb3a412a757aa5
-e
-5.idea/libraries/mariadb_java_client_2_3_0_sources.xml,3/7/37a7784da517af4887ccfc4a20b37a01be3cecf4
 H
 src/jdbc/Myjdbcapp1.java,5/5/5597a4c843c427f42d9cb05dc480087b42da0220
+]
+-.idea/libraries/mariadb_java_client_2_7_2.xml,8/8/88b1b64ed56d0fc81f7ec57b7f8343fba702790d
+H
+src/jdbc/Myjdbcapp2.java,3/a/3a42a915ac33a3733299d05a5403fa819b331c5b
+H
+src/jdbc/Myjdbcapp3.java,3/7/3717865db379dd3b733d203fdd17be6005f984b6

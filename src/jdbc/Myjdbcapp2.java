@@ -43,7 +43,8 @@ public class Myjdbcapp2 {
             System.out.print("Enter the employee address: ");
             eadd = sc.next();
 
-            stmt = "insert into employees(eno, ename, esal, eadd) values(" + eno + ",'" + ename + "'," + esal + ",'" + eadd + "')";
+            //stmt = "insert into employees(eno, ename, esal, eadd) values(" + eno + ",'" + ename + "'," + esal + ",'" + eadd + "')";
+            stmt = String.format("insert into employees(eno, ename, esal, eadd) values(%d, '%s', %f, '%s')", eno, ename, esal, eadd);
             s.executeUpdate(stmt);
         }
         con.close();

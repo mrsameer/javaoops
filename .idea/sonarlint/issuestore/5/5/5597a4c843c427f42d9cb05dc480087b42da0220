@@ -1,0 +1,8 @@
+
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¾ÒÎ8ì›ğŸ„/
+F
+java:S2115")Add password protection to this database.(¾ÒÎ8ì›ğŸ„/
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8İ©õŸ„/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏµÄèşÿÿÿÿ8´²ÿŸ„/

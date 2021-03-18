@@ -89,3 +89,13 @@ W
 'src/labmanual/week4/CompareStrings.java,1/8/1886b319e4bd73dc19e8b16e331656cdebe06587
 W
 'src/labmanual/week3/DiceSimulation.java,7/c/7c386f87fca103a66767b90de071a92738864ee1
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+R
+"src/multithreading/MyThread20.java,0/c/0c47c63299312f0db5591cf67d6e2dd7f74c2992
+<
+javaoops.iml,0/6/06d6eba93156a31aa4aa750716fb3a412a757aa5
+e
+5.idea/libraries/mariadb_java_client_2_3_0_sources.xml,3/7/37a7784da517af4887ccfc4a20b37a01be3cecf4
+H
+src/jdbc/Myjdbcapp1.java,5/5/5597a4c843c427f42d9cb05dc480087b42da0220

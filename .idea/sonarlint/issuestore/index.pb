@@ -103,3 +103,7 @@ H
 src/jdbc/Myjdbcapp2.java,3/a/3a42a915ac33a3733299d05a5403fa819b331c5b
 H
 src/jdbc/Myjdbcapp3.java,3/7/3717865db379dd3b733d203fdd17be6005f984b6
+I
+src/gui/awt/MyFrame1.java,2/f/2f46ab92061e657d072d09ac89715dfd9b799fa9
+I
+src/gui/awt/MyFrame2.java,5/4/541d4e4fe37928b1d1e5912328f523e81552b086

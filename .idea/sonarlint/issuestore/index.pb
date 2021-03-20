@@ -131,7 +131,5 @@ J
 src/gui/awt/MyFrame13.java,3/f/3fab02eb3ac1aa552dae14f199533700913ca5e5
 J
 src/gui/awt/MyFrame14.java,6/1/61228c97a6070589e2ff54e336ecf9d2d299fcce
-M
-src/gui/applet/Myapplet1.java,3/8/38d0507d8804f06bfe24a867eff02667d3508839
-M
-src/gui/applet/Myapplet1.html,d/d/dd10811b6125640438c67fe1836df618895542fd
+J
+src/gui/awt/MyFrame15.java,0/1/0198b8437f844ced284b3f1e977018637f75e505

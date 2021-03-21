@@ -133,3 +133,9 @@ J
 src/gui/awt/MyFrame14.java,6/1/61228c97a6070589e2ff54e336ecf9d2d299fcce
 J
 src/gui/awt/MyFrame15.java,0/1/0198b8437f844ced284b3f1e977018637f75e505
+I
+src/gui/swing/Frame1.java,7/a/7aaeb771dbc1542d0869e33728aa594bc84e6eb9
+I
+src/gui/swing/Frame2.java,1/e/1e511962eddb4c886c4dd542722f5029991a5570
+J
+src/gui/swing/JFrame3.java,a/2/a24aa708c56d903e895d6a83efb4c3e6e49b7541

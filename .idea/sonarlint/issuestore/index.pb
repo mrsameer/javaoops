@@ -157,3 +157,9 @@ S
 #src/labmanual/week3/EbookStall.java,7/6/769e8a6c791a1223279c8243d253fdff34031c45
 K
 src/labmanual/week4/Q2.java,9/0/9052853e618a0e31d1d14a2036d8b33c4a7d7f6e
+K
+src/labmanual/week4/Q3.java,5/a/5ae1d2c807d7dd0868cd24ab47c9043893b1dc68
+K
+src/labmanual/week4/Q4.java,f/b/fb9f3bfa74dd797b6036b0d62c1a5f1f94546118
+K
+src/labmanual/week4/Q5.java,8/d/8d772cc4fc1af8e3f21212bb85c51bfed121d977

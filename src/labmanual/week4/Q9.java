@@ -1,3 +1,7 @@
+/*
+9. Write an application that changes any given string with uppercase letters, displays
+it, changes it back to lowercase letters and displays it.
+ */
 package labmanual.week4;
 
 public class Q9 {

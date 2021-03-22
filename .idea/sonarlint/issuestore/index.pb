@@ -163,3 +163,5 @@ K
 src/labmanual/week4/Q4.java,f/b/fb9f3bfa74dd797b6036b0d62c1a5f1f94546118
 K
 src/labmanual/week4/Q5.java,8/d/8d772cc4fc1af8e3f21212bb85c51bfed121d977
+K
+src/labmanual/week4/Q6.java,e/9/e976a45aaec72e95c161dec3db21d73cc01ed804

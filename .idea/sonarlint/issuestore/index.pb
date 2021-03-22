@@ -145,3 +145,11 @@ S
 #src/labmanual/week12/Question2.java,9/4/94b60f91876610e3d4bf7f38bb41e60b43072007
 R
 "src/labmanual/week11/MyFrame1.java,7/4/74177a0051bd98a39363e5a071e8595a34c835ba
+P
+ src/labmanual/week2/MatAddn.java,0/c/0cd6300e24a6a68950d9bcb1070aab041261f0c3
+P
+ src/labmanual/week2/MatMult.java,2/1/21fdbac930213483f1ad2a286c0351c8757b458a
+S
+#src/labmanual/week2/SortString.java,1/c/1cfb1b907ba3b3b8eb2542889847773749f3aa1c
+X
+(src/labmanual/week2/CommandLineArgs.java,5/d/5d9f474905974dbc1726d858359750c3dcda08f3

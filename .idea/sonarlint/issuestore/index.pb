@@ -153,3 +153,7 @@ S
 #src/labmanual/week2/SortString.java,1/c/1cfb1b907ba3b3b8eb2542889847773749f3aa1c
 X
 (src/labmanual/week2/CommandLineArgs.java,5/d/5d9f474905974dbc1726d858359750c3dcda08f3
+S
+#src/labmanual/week3/EbookStall.java,7/6/769e8a6c791a1223279c8243d253fdff34031c45
+K
+src/labmanual/week4/Q2.java,9/0/9052853e618a0e31d1d14a2036d8b33c4a7d7f6e

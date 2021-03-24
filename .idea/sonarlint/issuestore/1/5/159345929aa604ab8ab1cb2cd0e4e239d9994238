@@ -1,19 +1,19 @@
 
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼Žø¯8²‰éÜƒ/
+<
+java:S1659"Declare "c" on a separate line.(©Ö½¶8û‘ÙÜƒ/
 <
 java:S1659"Declare "b" on a separate line.(©Ö½¶8û‘ÙÜƒ/
-A
-java:S1659/"Declare "b" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/
-A
-java:S1659/"Declare "c" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/
-<
-java:S1659"Declare "e" on a separate line.(©Ö½¶8û‘ÙÜƒ/
-A
-java:S1659/"Declare "e" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¡Ï‹8¥®ìÜƒ/
 A
 java:S1659/"Declare "d" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/
 <
-java:S1659"Declare "c" on a separate line.(©Ö½¶8û‘ÙÜƒ/
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(¡Ï‹8¥®ìÜƒ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¼Žø¯8²‰éÜƒ/
+java:S1659"Declare "e" on a separate line.(©Ö½¶8û‘ÙÜƒ/
+A
+java:S1659/"Declare "c" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/
+A
+java:S1659/"Declare "b" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/
 <
 java:S1659"Declare "d" on a separate line.(©Ö½¶8û‘ÙÜƒ/
+A
+java:S1659/"Declare "e" on a separate line.(ÌîÆ»ùÿÿÿÿ8ˆÑØÜƒ/

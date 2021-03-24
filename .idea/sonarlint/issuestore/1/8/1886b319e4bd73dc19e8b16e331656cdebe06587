@@ -1,9 +1,9 @@
 
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(¢¶åì8®ºÌôƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï®¯Ê8½ÆÒôƒ/
 U	java:S106"9Replace this use of System.out or System.err by a logger.(¡üĞÄ8ÑöÏôƒ/
 =
 java:S1659	" Declare "s2" on a separate line.(»ùôÕ8ããÊôƒ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï®¯Ê8½ÆÒôƒ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯½¢˜ÿÿÿÿÿ8ÑöÏôƒ/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏËà‡øÿÿÿÿ8½ÆÒôƒ/
-U	java:S106
-"9Replace this use of System.out or System.err by a logger.(¢¶åì8®ºÌôƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯½¢˜ÿÿÿÿÿ8ÑöÏôƒ/

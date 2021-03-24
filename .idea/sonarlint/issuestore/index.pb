@@ -185,3 +185,5 @@ K
 src/labmanual/week6/Q1.java,e/1/e107eea6e71e235f97f121fccb37c53f6c05807e
 L
 src/labmanual/week10/Q1.java,9/7/979bbd14f49836f2c07fc20ec51ff7263009ece1
+L
+src/labmanual/week10/Q2.java,e/6/e647b4aa048597086761f928009c8f3ed2f64b4d

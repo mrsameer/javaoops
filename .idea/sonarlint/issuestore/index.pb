@@ -181,3 +181,7 @@ P
  src/labmanual/week5/Account.java,1/5/1554b32e9485d63119f1639442f77e602693371f
 K
 src/labmanual/week5/Q5.java,c/0/c0d51744a5d7014dab9af0b71e7f85cc07a23f72
+K
+src/labmanual/week6/Q1.java,e/1/e107eea6e71e235f97f121fccb37c53f6c05807e
+L
+src/labmanual/week10/Q1.java,9/7/979bbd14f49836f2c07fc20ec51ff7263009ece1

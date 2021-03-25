@@ -187,3 +187,13 @@ L
 src/labmanual/week10/Q1.java,9/7/979bbd14f49836f2c07fc20ec51ff7263009ece1
 L
 src/labmanual/week10/Q2.java,e/6/e647b4aa048597086761f928009c8f3ed2f64b4d
+K
+src/labmanual/week6/Q2.java,8/0/80be78f97a9c5a4b8b368ca773ddfe3cb0ab65cb
+K
+src/labmanual/week6/Q3.java,1/0/10bef0b5e41e057c1486b376588fa518ef1a73cf
+K
+src/labmanual/week6/Q4.java,0/c/0c3714a401d978b3091224f4438895dd2ea6513a
+K
+src/labmanual/week6/Q5.java,6/b/6be62f9f5496a726ab8c4b2c7009cd566a1da6df
+K
+src/labmanual/week6/Q6.java,2/6/26c7091867143528408ffba19631f00b94996cac

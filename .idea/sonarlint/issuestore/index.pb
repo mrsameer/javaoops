@@ -209,3 +209,27 @@ K
 src/labmanual/week7/Q5.java,c/4/c440837a1e47a08af2b6a8d3ec44dd7aad5302d8
 K
 src/labmanual/week7/Q6.java,b/8/b806ccdec7a82c6cae3ca37b3e45a63bfdbe45db
+R
+"src/labmanual/week8/Q1/Second.java,7/2/72439ed23f750db15c902320e9da3c5d22b8ba8d
+Q
+!src/labmanual/week8/Q1/First.java,7/a/7a057016e17f7e8341c6bba9eefff6b3845933a0
+O
+src/labmanual/week8/Q1Demo.java,b/0/b00c974fc5bb6b6414f4385a6ca4ca6b791c1104
+\
+,src/labmanual/week8/org/shapes/Triangle.java,1/a/1a81d8318f703ff0db4989d7391cbe182a3cbb86
+Z
+*src/labmanual/week8/org/shapes/Square.java,4/2/426692089da290a6861ae5f6759d21f1a9ef6d62
+Z
+*src/labmanual/week8/org/shapes/Circle.java,4/0/40c842ac49871b90da59f467cd0bbd83c6821b60
+K
+src/labmanual/week8/Q2.java,e/9/e90efa55c382e64f9c3abc68f56c40d1166e0080
+P
+ src/labmanual/week8/dept/CE.java,6/0/60fb688256fcf0f732112ffaae6fca6b22747596
+Q
+!src/labmanual/week8/dept/Cse.java,2/f/2f62e4a0d43f5880e6ab0a0ced8702f8712aa941
+Q
+!src/labmanual/week8/dept/ECE.java,0/a/0a89cad276e1524da1e18fad65c697ced0107f7f
+P
+ src/labmanual/week8/dept/ME.java,a/b/ab41498b13d34613ea1e7a17df84465541eee7eb
+K
+src/labmanual/week8/Q3.java,c/c/cc304febbc6bd662d90cab15f2f7d2deb45827e9

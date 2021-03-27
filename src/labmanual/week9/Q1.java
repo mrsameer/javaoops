@@ -20,7 +20,7 @@ public class Q1 {
 
             if (b < 0)
                 throw (new ArithmeticException("*****Message*****\nsecond argument is less than 0"));
-            System.out.println("second argument is greater than 0 and number is: " + b);
+            System.out.println("second argument is greater than or = 0 and number is: " + b);
             int c = q1.show(a, b);
         } catch (ArithmeticException e) {
             System.out.println("Error found: " + e.getMessage());

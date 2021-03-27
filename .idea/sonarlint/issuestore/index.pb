@@ -233,3 +233,15 @@ P
  src/labmanual/week8/dept/ME.java,a/b/ab41498b13d34613ea1e7a17df84465541eee7eb
 K
 src/labmanual/week8/Q3.java,c/c/cc304febbc6bd662d90cab15f2f7d2deb45827e9
+W
+'src/labmanual/week8/calculator/Div.java,6/9/6978763ffacbe6eaf2c25fb579457f56d8655bf1
+W
+'src/labmanual/week8/calculator/Mul.java,1/9/195d7e691f733efab9a340753d33d0a744cc90ec
+W
+'src/labmanual/week8/calculator/Sub.java,3/e/3ed9d7eb9145b9ad67186ca45202b8b6dd9d281e
+W
+'src/labmanual/week8/calculator/Add.java,a/9/a939a8157b72a218a77c377a50c558c1b0ecdd93
+K
+src/labmanual/week8/Q4.java,c/2/c22ca9a47993f37ab1c07e08fc153d64d764e701
+K
+src/labmanual/week8/Q5.java,9/3/934a6916f54c75c359dc91d56a7638f7d80de92a

@@ -25,8 +25,11 @@ public class Q2 {
             System.out.println("The result of superclass is: " + test.result());
         } catch (Exception e){  // Exception is super class of ArithmeticException
             e.printStackTrace();
-        } catch (ArithmeticException e) {
-            e.printStackTrace();
         }
+        // commenting below code as this causes compile time error and source code build fails for further programs
+        // so commenting this as demonstration is also completed.
+        //catch (ArithmeticException e) {
+//            e.printStackTrace();
+//        }
     }
 }

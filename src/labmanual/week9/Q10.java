@@ -33,17 +33,17 @@ class Theater {
 }
 public class Q10 {
     public static void main(String[] args) {
-        Theater threater = new Theater();
-        new Thread(new Customer("Eoin", threater)).start();
-        new Thread(new Customer("Stokes", threater)).start();
-        new Thread(new Customer("Buttler", threater)).start();
-        new Thread(new Customer("Johnny", threater)).start();
-        new Thread(new Customer("Livingstone", threater)).start();
-        new Thread(new Customer("Roy", threater)).start();
-        new Thread(new Customer("sam", threater)).start();
-        new Thread(new Customer("Tom", threater)).start();
-        new Thread(new Customer("Adil", threater)).start();
-        new Thread(new Customer("Jofra", threater)).start();
-        new Thread(new Customer("Moeen", threater)).start();
+        Theater theater = new Theater();
+        new Thread(new Customer("Eoin", theater)).start();
+        new Thread(new Customer("Stokes", theater)).start();
+        new Thread(new Customer("Buttler", theater)).start();
+        new Thread(new Customer("Johnny", theater)).start();
+        new Thread(new Customer("Livingstone", theater)).start();
+        new Thread(new Customer("Roy", theater)).start();
+        new Thread(new Customer("sam", theater)).start();
+        new Thread(new Customer("Tom", theater)).start();
+        new Thread(new Customer("Adil", theater)).start();
+        new Thread(new Customer("Jofra", theater)).start();
+        new Thread(new Customer("Moeen", theater)).start();
     }
 }

@@ -105,7 +105,6 @@ public class Q3 extends Frame {
     public void paint(Graphics g) {
         g.setFont(new Font("arial", type, size));
         g.setColor(color);
-        choice.setBackground(color);
         g.drawString("Hi", 250, 500);
     }
 }

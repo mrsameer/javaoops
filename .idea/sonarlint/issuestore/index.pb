@@ -269,3 +269,7 @@ L
 src/labmanual/week10/Q3.java,b/f/bf9a70e0d3ff356796f00a5536b553df1f2f8b50
 L
 src/labmanual/week10/Q4.java,1/e/1ec295bc253c0caddb5ad29493307d7a26e3657c
+L
+src/labmanual/week10/Q5.java,6/4/64048953174ad369121e38613b02357880167beb
+L
+src/labmanual/week10/Q6.java,c/1/c1f83f223a1a8f5aa644d7781bae328d037b2c05

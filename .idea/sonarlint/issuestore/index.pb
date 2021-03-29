@@ -273,3 +273,11 @@ L
 src/labmanual/week10/Q5.java,6/4/64048953174ad369121e38613b02357880167beb
 L
 src/labmanual/week10/Q6.java,c/1/c1f83f223a1a8f5aa644d7781bae328d037b2c05
+L
+src/labmanual/week11/Q2.java,7/f/7f37ae5c5c63c92d3d5a30a9fa3e820dd002389e
+L
+src/labmanual/week11/Q3.java,7/3/7358d95ca5b5108d60e2f0669117afad92028950
+L
+src/labmanual/week11/Q4.java,8/8/887e18a18e1417619002c2fc844cbc687ea62a30
+L
+src/labmanual/week11/Q5.java,3/f/3fdc81c0c1a2d0a306ffecd581e7e2e70fe1aa70

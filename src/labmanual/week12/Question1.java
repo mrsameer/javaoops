@@ -32,6 +32,7 @@ public class Question1 {
         System.out.println("Inserted records into relation student");
 
         // close the connection
+        con.close();
         System.out.println("Closed connection to the database");
     }
 }

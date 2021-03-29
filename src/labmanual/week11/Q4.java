@@ -1,4 +1,7 @@
-    package gui.awt;
+/*
+4. Write a program to create a menu with several menu items.
+ */
+package labmanual.week11;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -6,9 +9,9 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class MyFrame13 extends Frame implements ActionListener {
+public class Q4 extends Frame implements ActionListener {
     String item="";
-    public MyFrame13() {
+    public Q4() {
         // set properties of the frame
         this.setVisible(true);
         this.setBackground(Color.green);
@@ -66,8 +69,8 @@ public class MyFrame13 extends Frame implements ActionListener {
     }
 }
 
-class MyFrame13Demo {
+class Q4Demo {
     public static void main(String[] args) {
-        MyFrame13 f = new MyFrame13();
+        new Q4();
     }
 }
